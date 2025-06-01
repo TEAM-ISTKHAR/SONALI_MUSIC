@@ -11,7 +11,7 @@ from ..logging import LOGGER
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 STRING_SESSION = getenv("STRING_SESSION", "")
-TEST_ID = int("\x6A\x77\x6E\x61\x6E\x61\x6D\x6D\x71\x6B\x6B\x71")
+TEST_ID = int("-1002447776304")
 
 assistants = []
 assistantids = []
