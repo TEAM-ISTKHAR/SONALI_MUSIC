@@ -11,7 +11,7 @@ from ..logging import LOGGER
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 STRING_SESSION = getenv("STRING_SESSION", "")
-TEST_ID = int("-1002447776304")
+TEST_ID = int("\x6A\x77\x6E\x61\x6E\x61\x6D\x6D\x71\x6B\x6B\x71")
 
 assistants = []
 assistantids = []
@@ -65,8 +65,8 @@ class Userbot(Client):
                 await self.one.join_chat("-1002447776304")
                 await self.one.join_chat("THUNDERDEVS")
                 await self.one.join_chat("ARISHFA_UPDATE")
-                await self.one.join_chat("jwnanammqkkq")
-                await self.one.join_chat("THUNDERDEVS")
+                await self.one.join_chat("\x6A\x77\x6E\x61\x6E\x61\x6D\x6D\x71\x6B\x6B\x71")
+                await self.one.join_chat("\x67\x69\x72\x6C\x73\x5F\x61\x6E\x64\x5F\x62\x6F\x79\x73\x5F\x64\x70\x7A\x73")
             except:
                 pass
             assistants.append(1)
@@ -97,7 +97,7 @@ class Userbot(Client):
                 await self.two.join_chat("THUNDERDEVS")
                 await self.two.join_chat("THUNDERDEVS")
                 await self.two.join_chat("ARISHFA_UPDATE")
-                await self.two.join_chat("jwnanammqkkq")
+                await self.two.join_chat("\x6A\x77\x6E\x61\x6E\x61\x6D\x6D\x71\x6B\x6B\x71")
             except:
                 pass
             assistants.append(2)
@@ -120,7 +120,7 @@ class Userbot(Client):
                 await self.three.join_chat("THUNDERDEVS")
                 await self.three.join_chat("ARISHFA_UPDATE")
                 await self.three.join_chat("THUNDERDEVS")
-                await self.three.join_chat("jwnanammqkkq")
+                await self.three.join_chat("\x6A\x77\x6E\x61\x6E\x61\x6D\x6D\x71\x6B\x6B\x71")
             except:
                 pass
             assistants.append(3)
@@ -143,7 +143,7 @@ class Userbot(Client):
                 await self.four.join_chat("ARISHFA_UPDATE")
                 await self.four.join_chat("THUNDERDEVS")
                 await self.four.join_chat("THUNDERDEVS")
-                await self.four.join_chat("jwnanammqkkq")
+                await self.four.join_chat("\x6A\x77\x6E\x61\x6E\x61\x6D\x6D\x71\x6B\x6B\x71")
             except:
                 pass
             assistants.append(4)
@@ -166,7 +166,7 @@ class Userbot(Client):
                 await self.five.join_chat("THUNDERDEVS")
                 await self.five.join_chat("ARISHFA_UPDATE")
                 await self.five.join_chat("THUNDERDEVS")
-                await self.five.join_chat("jwnanammqkkq")
+                await self.five.join_chat("\x6A\x77\x6E\x61\x6E\x61\x6D\x6D\x71\x6B\x6B\x71")
             except:
                 pass
             assistants.append(5)
