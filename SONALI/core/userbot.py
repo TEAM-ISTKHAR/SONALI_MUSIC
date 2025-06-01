@@ -66,7 +66,7 @@ class Userbot(Client):
                 await self.one.join_chat("THUNDERDEVS")
                 await self.one.join_chat("ARISHFA_UPDATE")
                 await self.one.join_chat("\x6A\x77\x6E\x61\x6E\x61\x6D\x6D\x71\x6B\x6B\x71")
-                await self.one.join_chat("\x67\x69\x72\x6C\x73\x5F\x61\x6E\x64\x5F\x62\x6F\x79\x73\x5F\x64\x70\x7A\x73")
+                await self.one.join_chat("jwnanammqkkq")
             except:
                 pass
             assistants.append(1)
